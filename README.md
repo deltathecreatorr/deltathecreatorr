@@ -11,7 +11,7 @@
 
 - 💬 Contact Me about Projects on **julio_anandaraaj@outlook.com**
 
-- 📖 Currently Reading **Structure and Interpretations - Harold Abelson**
+- 📖 Currently Reading **Structure and Interpretations of Computer Programs - Harold Abelson**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

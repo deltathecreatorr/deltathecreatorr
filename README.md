@@ -13,6 +13,8 @@
 
 - 📖 Currently Reading **Structure and Interpretations of Computer Programs - Harold Abelson**
 
+- 🔥 Fun Fact **I am also currently building my own homelab and setting up honeypots!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/julio-anandaraaj-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julio-anandaraaj" height="30" width="40" /></a>

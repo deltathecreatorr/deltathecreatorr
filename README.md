@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **React, MongoDB, Tailwind**
 
+- 📝 I am currently using **Typescript and Javascript**
+
 - 💬 Contact Me about Projects on **julio_anandaraaj@outlook.com**
 
 - 📖 Currently Reading **Structure and Interpretations of Computer Programs - Harold Abelson**

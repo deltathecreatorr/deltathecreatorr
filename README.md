@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deltathecreatorr&label=Profile%20views&color=0e75b6&style=flat" alt="deltathecreatorr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deltathecreatorr" alt="deltathecreatorr" /></a> </p>
-
 - 🔭 I’m currently working on [Loadout](https://github.com/deltathecreatorr/loadingout)
 
 - 🌱 I’m currently learning **React, MongoDB, Tailwind**
@@ -30,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deltathecreatorr&show_icons=true&locale=en" alt="deltathecreatorr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deltathecreatorr&" alt="deltathecreatorr" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deltathecreatorr" alt="deltathecreatorr" /></a> </p>
